@@ -9,18 +9,18 @@
         </button>
         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
             <div class="navbar-nav ml-auto p-4">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Service</a>
-                <a href="menu.html" class="nav-item nav-link">Menu</a>
+                <a href="/" class="nav-item nav-link {{ Route::is('home') ? 'active' : '' }}">Home</a>
+                <a href="/about" class="nav-item nav-link {{ Route::is('about') ? 'active' : '' }}">About</a>
+                <a href="/service" class="nav-item nav-link {{ Route::is('service') ? 'active' : '' }}">Service</a>
+                <a href="/menu" class="nav-item nav-link {{ Route::is('menu') ? 'active' : '' }}">Menu</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle {{ Route::is('reservation') || Route::is('testimonials') ? 'active' : '' }}" data-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu text-capitalize">
-                        <a href="reservation.html" class="dropdown-item">Reservation</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                        <a href="/reservation" class="dropdown-item {{ Route::is('reservation') ? 'active' : '' }}">Reservation</a>
+                        <a href="/testimonial" class="dropdown-item {{ Route::is('testimonial') ? 'active' : '' }}">Testimonial</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="/contact" class="nav-item nav-link {{ Route::is('contact') ? 'active' : '' }}">Contact</a>
             </div>
         </div>
     </nav>

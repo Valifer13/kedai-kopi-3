@@ -4,49 +4,49 @@
       "name": "Espresso",
       "description": "Kopi hitam pekat dengan rasa kuat, disajikan dalam cangkir kecil.",
       "price": 30,
-      "image": "espresso.webp"
+      "image": "espresso.jpg"
     },
     {
       "name": "Americano",
       "description": "Espresso yang ditambahkan air panas, menghasilkan kopi hitam dengan rasa lebih ringan.",
       "price": 35,
-      "image": "americano.webp"
+      "image": "americano.jpg"
     },
     {
       "name": "Cappuccino",
       "description": "Espresso dengan campuran susu panas dan busa susu di atasnya, memiliki tekstur lembut.",
       "price": 45,
-      "image": "cappuccino.webp"
+      "image": "cappuccino.jpg"
     },
     {
       "name": "Latte",
       "description": "Espresso dengan lebih banyak susu, sering dihias dengan latte art.",
       "price": 50,
-      "image": "latte.webp"
+      "image": "latte.jpg"
     },
     {
       "name": "Macchiato",
       "description": "Espresso dengan sedikit busa susu, kaya rasa.",
       "price": 45,
-      "image": "macchiato.webp"
+      "image": "macchiato.jpg"
     },
     {
       "name": "Mocha",
       "description": "Campuran espresso, cokelat, dan susu, dengan rasa manis dan sedikit pahit.",
       "price": 60,
-      "image": "mocha.webp"
+      "image": "mocha.jpg"
     },
     {
       "name": "Cold Brew",
       "description": "Kopi yang diseduh dalam air dingin selama beberapa jam, seringkali disajikan dengan es.",
       "price": 60,
-      "image": "cold-brew.webp"
+      "image": "cold-brew.jpg"
     },
     {
       "name": "Iced Coffee",
       "description": "Kopi hitam yang disajikan dingin, sering kali dengan tambahan sirup rasa.",
       "price": 45,
-      "image": "iced-coffee.webp"
+      "image": "iced-coffee.jpg"
     }
   ],
   "non_coffee": [
@@ -54,37 +54,37 @@
       "name": "Teh",
       "description": "Pilihan teh panas atau dingin, bisa berupa teh hitam, hijau, atau herbal.",
       "price": 30,
-      "image": "tea.webp"
+      "image": "tea.jpg"
     },
     {
       "name": "Matcha Latte",
       "description": "Teh hijau bubuk dicampur dengan susu, kaya akan rasa matcha.",
       "price": 60,
-      "image": "matcha-latte.webp"
+      "image": "matcha-latte.jpg"
     },
     {
       "name": "Chai Latte",
       "description": "Teh berbumbu khas India dicampur susu, dengan aroma dan rasa rempah.",
       "price": 50,
-      "image": "chai.webp"
+      "image": "chai.jpg"
     },
     {
       "name": "Smoothies",
       "description": "Minuman segar berbahan buah dan yoghurt, kadang ditambah protein atau sayuran.",
       "price": 75,
-      "image": "smoothie.webp"
+      "image": "smoothie.jpg"
     },
     {
       "name": "Soda",
       "description": "Minuman soda berperisa untuk pilihan yang segar dan manis.",
       "price": 60,
-      "image": "soda.webp"
+      "image": "soda.jpg"
     },
     {
       "name": "Mocktail",
       "description": "Minuman soda berperisa untuk pilihan yang segar dan manis.",
       "price": 60,
-      "image": "mocktail.webp"
+      "image": "mocktail.jpg"
     }
   ],
   "light_dish": [
@@ -92,49 +92,49 @@
       "name": "Croissant",
       "description": "Pastry ringan yang cocok sebagai pendamping kopi.",
       "price": 30,
-      "image": "croissant.webp"
+      "image": "croissant.jpg"
     },
     {
       "name": "Scone",
       "description": "Pastry ringan yang cocok sebagai pendamping kopi.",
       "price": 30,
-      "image": "scone.webp"
+      "image": "scone.jpg"
     },
     {
       "name": "Cheesecake",
       "description": "Kue manis dengan tekstur lembut, sering kali jadi favorit pencuci mulut.",
       "price": 60,
-      "image": "cheesecake.webp"
+      "image": "cheesecake.jpg"
     },
     {
       "name": "Brownies",
       "description": "Kue manis dengan tekstur lembut, sering kali jadi favorit pencuci mulut.",
       "price": 60,
-      "image": "brownies.webp"
+      "image": "brownies.jpg"
     },
     {
       "name": "Tiramisu",
       "description": "Kue manis dengan tekstur lembut, sering kali jadi favorit pencuci mulut.",
       "price": 60,
-      "image": "tiramisu.webp"
+      "image": "tiramisu.jpg"
     },
     {
       "name": "Cookies",
       "description": "Biskuit renyah seperti chocolate chip atau oatmeal.",
       "price": 20,
-      "image": "cookies.webp"
+      "image": "cookies.jpg"
     },
     {
       "name": "Donat",
       "description": "Camilan berbentuk cincin atau bulat, sering diberi topping atau isian.",
       "price": 30,
-      "image": "donut.webp"
+      "image": "donut.jpg"
     },
     {
       "name": "Sandwich",
       "description": "Roti isi dengan berbagai macam isian seperti daging, sayuran, dan keju.",
       "price": 75,
-      "image": "sandwich.webp"
+      "image": "sandwich.jpg"
     }
 
   ],
@@ -143,37 +143,37 @@
       "name": "Waffle",
       "description": "Hidangan pencuci mulut dengan topping manis seperti buah, sirup, atau es krim.",
       "price": 75,
-      "image": "waffle.webp"
+      "image": "waffle.jpg"
     },
     {
       "name": "Pancake",
       "description": "Hidangan pencuci mulut dengan topping manis seperti buah, sirup, atau es krim.",
       "price": 75,
-      "image": "pancake.webp"
+      "image": "pancake.jpg"
     },
     {
       "name": "Pudding",
       "description": "Hidangan penutup berlapis seperti puding atau parfait dengan yoghurt atau custard.",
       "price": 45,
-      "image": "pudding.webp"
+      "image": "pudding.jpg"
     },
     {
       "name": "Parfait",
       "description": "Hidangan penutup berlapis seperti puding atau parfait dengan yoghurt atau custard.",
       "price": 45,
-      "image": "parfait.webp"
+      "image": "parfait.jpg"
     },
     {
       "name": "Ice Cream",
       "description": "Es krim yang disajikan dalam cangkir atau cone, dengan berbagai pilihan rasa.",
       "price": 45,
-      "image": "ice-cream.webp"
+      "image": "ice-cream.jpg"
     },
     {
       "name": "Gelato",
       "description": "Es krim yang disajikan dalam cangkir atau cone, dengan berbagai pilihan rasa.",
       "price": 45,
-      "image": "gelato.webp"
+      "image": "gelato.jpg"
     }
   ],
   "special_menu": [
@@ -182,42 +182,42 @@
       "description": "Perpaduan kopi espresso, susu, sirup labu, dan rempah-rempah seperti kayu manis, pala, cengkeh, dan jahe.",
       "event": "Musim gugur, Halloween",
       "price": 50,
-      "image": "pumpkin-spice-latte.webp"
+      "image": "pumpkin-spice-latte.jpg"
     },
     {
       "name": "Peppermint Mocha",
       "description": "Espresso, susu, cokelat, dan sirup peppermint, memberikan nuansa liburan yang menyenangkan.",
       "event": "Natal, musim dingin",
       "price": 60,
-      "image": "peppermint-mocha.webp"
+      "image": "peppermint-mocha.jpg"
     },
     {
       "name": "Rose Latte",
       "description": "Latte dengan sirup mawar yang menghasilkan rasa floral lembut dan aroma wangi.",
       "event": "Hari Valentine, acara romantis",
       "price": 50,
-      "image": "rose-latte.webp"
+      "image": "rose-latte.jpg"
     },
     {
       "name": "Salted Caramel Latte",
       "description": "Espresso dengan sirup caramel dan sedikit garam laut, memberikan rasa manis dan asin yang khas.",
       "event": "Musim gugur",
       "price": 60,
-      "image": "salted-caramel.webp"
+      "image": "salted-caramel.jpg"
     },
     {
       "name": "Cherry Blossom Latte",
       "description": "Latte dengan sirup cherry blossom, rasa floral lembut yang identik dengan musim semi.",
       "event": "Musim semi, cherry blossom",
       "price": 60,
-      "image": "sakura-latte.webp"
+      "image": "sakura-latte.jpg"
     },
     {
       "name": "Eggnog Latte",
       "description": "Perpaduan espresso dengan eggnog, minuman khas Natal dengan rasa creamy dan spicy.",
       "event": "Natal, musim dingin",
       "price": 60,
-      "image": "eggnog.webp"
+      "image": "eggnog.jpg"
     }
   ],
   "testimonials": [
